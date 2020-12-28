@@ -1,2 +1,2 @@
 # expyhist.github.io
-django-dev
+Individual Website
